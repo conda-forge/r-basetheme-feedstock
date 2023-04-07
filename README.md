@@ -1,11 +1,11 @@
-About r-basetheme
-=================
+About r-basetheme-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-basetheme-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/KKPMW/basetheme
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-basetheme-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to create and select graphical themes for the base plotting system. Contains: 1) several custom pre-made themes 2) mechanism for creating new themes by making persistent changes to the graphical parameters of base plots.
 
